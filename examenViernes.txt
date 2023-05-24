@@ -1,0 +1,13 @@
+1
+tipo test
+2
+jerarquia collectiones
+3
+elegir estructura, 
+almanecar conjunto de objentos en collection, hacer operaciones
+4 
+usar los streams, "Dame los coches rojos" cosas asi
+5
+Elegir otra estructura de datos, y justificar, buscar, eliminar.
+6
+Generalización, da un problema y tendremos que generalización
